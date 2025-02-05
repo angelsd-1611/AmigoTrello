@@ -6,9 +6,13 @@ Este proyecto es una aplicación web que permite organizar un sorteo de "Amigo S
 
 ## :hammer: Características del proyecto
 
-- `Funcionalidad 1`: Agregar nombres de los participantes- `Funcionalidad 2`: Eliminar participantes si es necesario- `Funcionalidad 3`:Sortear de manera aleatoria a cada participante con su "Amigo Secreto"
-
-📃 Mostrar el resultado en pantalla.
+- `Funcionalidad 1`: Agregar nombres de los participantes
+  
+- `Funcionalidad 2`: Eliminar participantes si es necesario
+  
+- `Funcionalidad 3`:Sortear de manera aleatoria a cada participante con su "Amigo Secreto"
+  
+- `Funcionalidad 4`:Mostrar el resultado en pantalla.
 
 \##🛠️ Tecnologías utilizadas
 
