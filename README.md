@@ -22,7 +22,7 @@ Este proyecto es una aplicación web que permite organizar un sorteo de "Amigo S
 
 🧠 JavaScript: Lógica de la aplicación.
 
-## ✔️: Uso
+## ✔️ Uso
 
 ✍️ Ingresar el nombre de cada participante en el campo de entrada.
 
@@ -32,7 +32,7 @@ Este proyecto es una aplicación web que permite organizar un sorteo de "Amigo S
 
 📜 Se generará y mostrará una lista con las asignaciones de "Amigo Secreto".
 
-## ⏏️: Instalación y ejecución
+## ⏏️ Instalación y ejecución
 
 No se requiere instalación, solo abre el archivo index.html en un navegador web
 
