@@ -1,4 +1,4 @@
-## 🏙️: <em> AMIGO SECRETO </em>
+## 🏙️ <em> AMIGO SECRETO </em>
 
 ## :pushpin: Descripción
 
@@ -36,6 +36,6 @@ Este proyecto es una aplicación web que permite organizar un sorteo de "Amigo S
 
 No se requiere instalación, solo abre el archivo index.html en un navegador web
 
-## 🧑‍🦱: Autor
+## 🧑‍🦱 Autor
 
 Proyecto desarrollado por Ángel.
