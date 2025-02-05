@@ -14,7 +14,7 @@ Este proyecto es una aplicación web que permite organizar un sorteo de "Amigo S
 
 📃 Mostrar el resultado en pantalla.
 
-🛠️ Tecnologías utilizadas
+\##🛠️ Tecnologías utilizadas
 
 🏗️ HTML: Estructura de la página.
 
