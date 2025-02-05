@@ -1,6 +1,6 @@
 <em> AMIGO SECRETO </em>
 
-📌 Descripción
+## :pushpin: Descripción
 
 Este proyecto es una aplicación web que permite organizar un sorteo de "Amigo Secreto" de manera sencilla y dinámica. Los participantes pueden ingresar sus nombres, y la aplicación se encargará de realizar un sorteo aleatorio asegurando que nadie se asigne a sí mismo.
 
@@ -14,7 +14,7 @@ Este proyecto es una aplicación web que permite organizar un sorteo de "Amigo S
   
 - `Funcionalidad 4`:Mostrar el resultado en pantalla.
 
-\##🛠️ Tecnologías utilizadas
+## :computer: Tecnologías utilizadas
 
 🏗️ HTML: Estructura de la página.
 
@@ -22,7 +22,7 @@ Este proyecto es una aplicación web que permite organizar un sorteo de "Amigo S
 
 🧠 JavaScript: Lógica de la aplicación.
 
-🎯 Uso
+## :darts: Uso
 
 ✍️ Ingresar el nombre de cada participante en el campo de entrada.
 
@@ -32,6 +32,10 @@ Este proyecto es una aplicación web que permite organizar un sorteo de "Amigo S
 
 📜 Se generará y mostrará una lista con las asignaciones de "Amigo Secreto".
 
-⚡ Instalación y ejecución
+## :ray: Instalación y ejecución
 
 No se requiere instalación, solo abre el archivo index.html en un navegador web
+
+## : glasses: Autor
+
+Proyecto desarrollado por Ángel.
