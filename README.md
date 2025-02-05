@@ -22,7 +22,7 @@ Este proyecto es una aplicación web que permite organizar un sorteo de "Amigo S
 
 🧠 JavaScript: Lógica de la aplicación.
 
-## :darts: Uso
+## ✔️: Uso
 
 ✍️ Ingresar el nombre de cada participante en el campo de entrada.
 
