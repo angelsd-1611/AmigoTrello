@@ -4,7 +4,7 @@
 
 Este proyecto es una aplicación web que permite organizar un sorteo de "Amigo Secreto" de manera sencilla y dinámica. Los participantes pueden ingresar sus nombres, y la aplicación se encargará de realizar un sorteo aleatorio asegurando que nadie se asigne a sí mismo.
 
-🚀 Características
+## : hammer: Características del proyecto
 
 ✅ Agregar nombres de los participantes.
 
