@@ -32,10 +32,10 @@ Este proyecto es una aplicación web que permite organizar un sorteo de "Amigo S
 
 📜 Se generará y mostrará una lista con las asignaciones de "Amigo Secreto".
 
-## :facility: Instalación y ejecución
+## ⏏️: Instalación y ejecución
 
 No se requiere instalación, solo abre el archivo index.html en un navegador web
 
-## : glasses: Autor
+## 🧑‍🦱: Autor
 
 Proyecto desarrollado por Ángel.
